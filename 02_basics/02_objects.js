@@ -5,7 +5,7 @@ const company = {
     CEO: "Manini Puranik",
     CTO: "Rajnikanth Poojary",
     technicalArchitect: "Gayatri Ramamurthi",
-    HR: "Jaya Sharma"
+    humanResources: "Jaya Sharma"
 }
 
 const {technicalArchitect, name, HR} = company;
