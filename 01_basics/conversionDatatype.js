@@ -1,6 +1,7 @@
 let isNumber = 50
-let numberToString = String(isNumber)
-// console.log(isNumber) //50 in number
+// let numberToString = String(isNumber)
+isNumber.toString();
+console.log(isNumber) //50 in number
 // console.log(numberToString) //50 in String
 // console.log(typeof(numberToString)) // String
 
