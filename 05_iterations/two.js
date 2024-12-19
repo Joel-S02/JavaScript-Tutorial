@@ -6,7 +6,7 @@ while (index <= 10) {
 }
 
 
-
+// Do While Loop
 let percentage = 89;
 do {
     console.log(`The Percentage is ${percentage}`)
